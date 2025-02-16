@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">TP1</string>
+
+    <!-- Dialog -->
+    <string name="dialog_title">Confirmation</string>
+    <string name="dialog_message">Do you want to validate the information?</string>
+    <string name="dialog_positive">Confirm</string>
+    <string name="dialog_negative">Cancel</string>
+    <string name="call">Call</string>
+
+    <!-- From fields -->
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="phone_number">Phone number</string>
+    <string name="skill">Skill</string>
+    <string name="name_placeholder">Doe</string>
+    <string name="surname_placeholder">John</string>
+    <string name="skill_placeholder">Developer</string>
+    <string name="phone_placeholder">+33 1 21 16 31 27</string>
+    <string name="validate">Validate</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="refused">Refused</string>
+    <string name="confirmationMessage">Confirm the data you entered.</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="birth_placeholder">DD/MM/YYYY</string>
+
+    <!-- Title Label -->
+    <string name="home_page_title">Home</string>
+    <string name="title_recap">Summary</string>
+    <string name="title_add_contact">New Contact</string>
+
+    <!-- BTN Label -->
+    <string name="btn_home">Cancel</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_no">No</string>
+    <string name="btn_validate">Validate</string>
+    <string name="events_title_placeholder">New Events</string>
+    <string name="btn_search" >Search</string>
+    <string name="title_next_events">Next Event</string>
+    <string name="title_sncf_info">SNCF INFO</string>
+</resources>
