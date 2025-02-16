@@ -47,7 +47,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:background="@drawable/rounded_content"
-                android:hint="@string/title_add_contact"/>
+                android:hint="@string/city_placeholder"/>
         </com.google.android.material.textfield.TextInputLayout>
 
         <com.google.android.material.textfield.TextInputLayout
@@ -61,7 +61,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:background="@drawable/rounded_content"
-                android:hint="@string/title_add_contact"/>
+                android:hint="@string/city_placeholder"/>
         </com.google.android.material.textfield.TextInputLayout>
 
         <Button

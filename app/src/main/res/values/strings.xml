@@ -38,4 +38,5 @@
     <string name="btn_search" >Search</string>
     <string name="title_next_events">Next Event</string>
     <string name="title_sncf_info">SNCF INFO</string>
+    <string name="city_placeholder">Montpellier</string>
 </resources>
